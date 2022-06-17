@@ -49,7 +49,7 @@ public void sendMessage(String mes){
 
     @Override
     public String getBotToken() {
-        return "5004569575:AAFB67y36Il-d-rFWS2DrdiWNpLovGrxeg4";
+        return "5005555555555555555555555555";
     }
 
 
