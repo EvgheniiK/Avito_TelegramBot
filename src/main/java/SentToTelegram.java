@@ -8,7 +8,7 @@ import java.nio.charset.StandardCharsets;
 
 public class SentToTelegram {
     private static HttpURLConnection con;
-    private static String tgToken = "5004569575:AAFB67y36Il-d-rFWS2DrdiWNpLovGrxeg4";
+    private static String tgToken = "5004569575";
     private static String  chatId = "350218053";
     private static String urlToken = "https://api.telegram.org/bot"+tgToken+"/sendMessage";
 
